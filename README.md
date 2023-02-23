@@ -10,6 +10,9 @@ In my tutorials, I will provide a 'magic link' that is the equivalent of the "Us
 
 The only difference is that the 'magic link' will create a repository in our course GitHub Organization rather than a location that you choose (such as your own GitHub account). Being associated with the course organization lets the course lets us benefit from Educational Account features and resources, and ensures that I as your instructor have access to private repositories in the Org account. I cannot troubleshoot issues or permissions in repositories where I am not granted access. Click on the magic link I have provided to get started, then proceed to the directions for "Anyone" starting at Step 2.
 
+
+Testing
+
 ### Anyone
 
 Anyone can deploy this repository in codespaces by taking advantage of the current [free tier available for all users](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces), or by using their own codespaces subscription.
