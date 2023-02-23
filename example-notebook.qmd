@@ -2,6 +2,10 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
+author: Carla López Lloreda
+
+
+
 ---
 
 ## Quarto
@@ -14,6 +18,8 @@ When you click the **Render** button a document will be generated that includes 
 
 ```{r}
 1 + 1
+
+
 ```
 
 You can add options to executable code like this
