@@ -3,9 +3,6 @@ title: "example-notebook.qmd"
 format: html
 editor: visual
 author: Carla López Lloreda
-
-
-
 ---
 
 ## Quarto
